@@ -10,6 +10,24 @@ Uma mentoria não tem como objetivo ensinar teorias através de **aulas**, mas t
 
 O papel de um mentor ou uma mentora não é impor algo, mas sugerir caminhos. Se a pessoa não quiser seguir, não podemos impor nada.
 
+## O que é mentoria
+
+Mentoria tem como foco ajudar alguém a **alcançar objetivos**, aprimorando suas habilidades técnicas ou interpessoais, pois nosso propósito é auxiliar a pessoa a encontrar um caminho mais promissor, tendo como o alvo o progresso e o crescimento pessoal e profissional do mentorado ou da mentorada.
+
+Mentorar é dar conselhos baseado em nossa experiência profissional, por isso tende a ser um bate papo informal, não um curso ou aulas particulares de assunto x.
+
+O processo de mentoria não é o mesmo de ajudar em um fórum de discussões, onde respondemos alguma dúvida e vamos embora. Mas é um acompanhamento pessoal onde buscamos conhecer as **necessidades** individuais, as **dificuldades** e **limites** da pessoa mentorada.
+
+**Exemplo**
+
+- **uma necessidade** pode ser: desejo me tornar programador(a) front-end/mobile/back-end/etc;
+- **uma dificuldade** pode ser: por mais que eu tente muito, não consigo me dar bem com lógica de programação;
+- **um limite** pode ser: eu não tenho muito tempo livre durante a semana, pois moro longe do meu emprego;
+
+Nosso papel, neste exemplo, é ajudar essa pessoa a superar o limite da falta de tempo, darmos os melhores conselhos para que ela supere a dificuldade em lógica de programação, mas o objetivo final é dar todas as dicas possíveis para que ela se torne programadora. Não vamos dar aulas de lógica de programação, mas dicas para que essa pessoa aprenda por si própria baseada em nossa experiência de carreira.
+
+Entenda mais sobre mentoria neste artigo: [Significado de Mentoring](https://www.significados.com.br/mentoring/).
+
 ## Público alvo
 
 Pessoas totalmente iniciantes em programação que, muitas vezes, não sabem nem para qual caminho seguir no universo do desenvolvimento de software.
