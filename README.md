@@ -137,3 +137,9 @@ Recomendo que, entre uma mentoria e a próxima, as pessoas que mentoram retirem 
 - Início do programa de mentoria
 - Sprints
 
+## Como se cadastrar
+
+Me acompanhe no Twitter ou no LinkedIn para saber quando abrirmos novas inscrições:
+
+- https://twitter.com/_uillaz
+- https://www.linkedin.com/in/william-oliveira/
